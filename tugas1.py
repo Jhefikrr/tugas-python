@@ -1,0 +1,17 @@
+print("==== MENGISI BIODATA MAHASISWA ====")
+print()
+
+nama = input("Masukkan nama anda : ")
+jurusan = input("Masukkan jurusan anda : ")
+umur = input("Masukkan umur anda : ")
+alamat = input("Masukkan alamat anda : ")
+lulusan = input("Anda lulusan mana : ")
+print()
+
+print("=="*15)
+print("- Nama    : ",nama)
+print("- Jurusan : ",jurusan)
+print("- Umur    : ",umur)
+print("- Alamat  : ",alamat)
+print("- Lulusan : ",lulusan)
+print("=="*15)
